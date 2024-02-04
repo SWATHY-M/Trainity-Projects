@@ -1,4 +1,4 @@
-Hi, This repo contains the project files which is based on a Virtual Internship from Trainity for 8 weeks 
+Hi, This repo contains the project solution files which is based on a Virtual Internship from Trainity for 8 weeks.
 It covers concepts like EDA, Predictive Analytics, Feature Engineering, Data Engineering and Visualisation, Modelling and Evaluation.
 
 Tech Stack : MySQL, Python, Tableau, Power BI and MS-Excel
